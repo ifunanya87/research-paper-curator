@@ -1,0 +1,13 @@
+# Ignore the virtual environment
+.venv/
+
+# Ignore cache files
+__pycache__/
+
+# VS Code settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
